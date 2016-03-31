@@ -1,0 +1,1 @@
+/home/zhan/netconf/netconf -ip 10.136.52.186 -port 22 -user root123 -psw root_DC123 -in /home/zhan/netconf/in.txt -out /home/zhan/netconf/out.txt
